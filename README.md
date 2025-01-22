@@ -1,100 +1,110 @@
-# 👋 Hi, I'm Gade Lokesh
+# Hello there I am Gade Lokesh👋
 
-![Profile Banner](![banner](https://github.com/user-attachments/assets/2ec0b7ce-4e6d-4691-adb7-3d54ac103b49)
-)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-🔍 **Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator | Web Developer**  
-🎓 **Graduate in Computer Science Engineering | Certified Data Analyst**
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
----
 
-## 🌟 **About Me**
-Hi there! I'm passionate about leveraging **Data Science**, **Machine Learning**, and **AI** to create impactful solutions. My expertise in **EDA**, **predictive modeling**, and **data visualization** drives my innovative projects. I'm always eager to learn and collaborate in the tech community.
+## Me 
+
+🔍 ** An Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator | Web Developer**
 
 ---
 
-## 🛠️ **Skills**
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### **Data Science & Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **Data Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E34A86?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-63DADA?style=for-the-badge&logo=seaborn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+### 🌱 **What I Do**
+I'm passionate about **AI, Machine Learning, and Data Science**, creating impactful **data-driven solutions** using technologies like **Python**, **SQL**, **Tableau**, and **Power BI**.
 
 ---
 
-## 🚀 **Projects**
-
-### 🎭 [Face-Eye Detection](https://github.com/gadelokesh/Face-Eye-Detection)
-A real-time **face and eye detection** application built using **Streamlit** and **OpenCV**.
-
-### 📊 [Extensive Analysis Visualization](https://github.com/gadelokesh/Extensive-Analysis-Visualization-in-Python)
-Comprehensive **EDA** on heart disease datasets to derive meaningful insights.
-
-### 🌍 [Language Translator App](https://github.com/gadelokesh/Language-Translator-App)
-A web app for multilingual text translation with audio output.
-
-### 🧠 [ML-Project-Drug-Review-Dataset](https://github.com/gadelokesh/ML-Project-Drug-Review-Dataset)
-An innovative machine learning project that utilizes patient reviews to analyze and evaluate the effectiveness of drugs.
-
-### 🎮 [Click-The-Edible-Game](https://github.com/gadelokesh/Click-The-Edible-Game)
-An engaging game developed using HTML, CSS, and JS where players click on edible items to score points.
-
-**[View All Repositories](https://github.com/gadelokesh?tab=repositories)**
+### ⚡ **Fun Fact**
+When I'm not diving into data, I enjoy photography and fitness! 📸💪  
+- 📸 [Instagram: Pixa_click](https://www.instagram.com/pixa_click/)
+- 💪 [Instagram: Beast_x_b](https://www.instagram.com/beast_x_b/)
 
 ---
 
-## 🏆 **Certifications**
-- **Google Data Analytics Professional Certificate** (Coursera)
-- **Data Visualization: Empowering Business with Effective Insights** (FORAGE)
-- **SQL Certification** (HackerRank)
-- **Cybersecurity Essentials** (Cisco)
+
+
+
+
+
+
+
+
+## 🌐 Socials:
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadelokeshp@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/LokeshJBannuGade) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lurn2gather) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GadeLokesh) 
+[![X (Twitter)](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Lokesh3s33) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Gadelokesh3)
+
+<h3 align="center">My Skills</h3>
+
+<h4>🚀 Programming Languages:</h4>
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</p>
+
+<h4>🎨 Frontend Development:</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</p>
+
+<h4>⚙️ Software & Tools:</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+<h4>🤖 Machine Learning & Data Science:</h4>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+<h4>💻 Cloud & DevOps:</h4>
+<p>
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+<!-- Tools and Platforms -->
+
+![snake gif](https://github.com/gadelokesh/gadelokesh/blob/output/github-contribution-grid-snake.svg)
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gadelokesh&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gadelokesh&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gadelokesh&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gadelokesh&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+
+
+<h2>Activity Graph</h2>
+
+![L's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadelokesh&custom_title=L's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gadelokesh&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=gadelokesh&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## 🌱 **Currently Learning**
-Enhancing my knowledge in **generative models**, **NLP**, and **Data Engineering** using **Google Cloud** and **AWS**.
-
----
-
-## 🤝 **Let's Collaborate**
-I'm open to collaborating on **AI/ML**, **data visualization**, or **open-source** projects. Let's innovate together!
-
----
-
-## 📬 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gade-lokesh-392844217/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadelokesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadelokeshp@gmail.com)
-
----
-
-## 🌐 **Coding Platforms**
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/gadelokesh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gadelokesh)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gadelokesh)
-
----
-
-## 📈 **GitHub Stats**
-![Gade Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadelokesh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadelokesh&layout=compact&theme=radical)
-
----
-
-## 🎉 **Fun Facts**
-- **Photography Enthusiast**: Capturing stories through visuals. Check out my work on [Instagram](https://www.instagram.com/pixa_click/).
-- **Fitness Advocate**: Sharing fitness journeys on [Instagram](https://www.instagram.com/beast_x_b).
-
----
-
-Let's build something incredible together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
