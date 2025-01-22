@@ -7,7 +7,7 @@
 
 ## Me 
 
-🔍 ** An Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator | Web Developer**
+🔍 **An Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator | Web Developer**
 
 ---
 
