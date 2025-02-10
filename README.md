@@ -23,14 +23,6 @@ When I'm not diving into data, I enjoy photography and fitness! 📸💪
 
 ---
 
-
-
-
-
-
-
-
-
 ## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadelokeshp@gmail.com)
@@ -40,7 +32,9 @@ When I'm not diving into data, I enjoy photography and fitness! 📸💪
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Lokesh3s33) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Gadelokesh3)
 
-<h3 align="center">My Skills</h3>
+---
+
+## 🧑‍💻 Skills
 
 <h4>🚀 Programming Languages:</h4>
 <p>
@@ -82,10 +76,7 @@ When I'm not diving into data, I enjoy photography and fitness! 📸💪
    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-<!-- Tools and Platforms -->
-
-![snake gif](https://github.com/gadelokesh/gadelokesh/blob/output/github-contribution-grid-snake.svg)
-
+---
 
 
 # 📊 GitHub Stats:
@@ -93,13 +84,18 @@ When I'm not diving into data, I enjoy photography and fitness! 📸💪
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gadelokesh&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gadelokesh&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gadelokesh&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
 
+---
 
 <h2>Activity Graph</h2>
 
 ![L's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gadelokesh&custom_title=L's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gadelokesh&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
